@@ -1,9 +1,12 @@
 # SKYNovel simple sample project
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+![](https://img.shields.io/github/package-json/v/famibee/SKYNovel_sample.svg)
+![](https://img.shields.io/badge/platform-windows%20%7C%20macos-lightgrey.svg)
+![](https://img.shields.io/github/size/famibee/SKYNovel_sample/web/web.js.svg)
 
 ![logo.svg](build/icon/icon.svg)
 
-[CHANGELOG.md](https://github.com/famibee/SKYNovel_sample/blob/master/CHANGELOG.md)
+[CHANGELOG.md](CHANGELOG.md)
 
 ---
 ### description（説明）
