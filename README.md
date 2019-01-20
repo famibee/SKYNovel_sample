@@ -11,7 +11,7 @@
 
 Hello world ほど小さくはないが、最小限のファイルによるプロジェクトです。
 
-![柊さん](build/manual_th.jpg0)
+![柊さん](build/manual_th.jpg)
 
 ## usage（使用法）
 
