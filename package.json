@@ -1,6 +1,6 @@
 {
-	"name": "uc",
-	"version": "1.0.0",
+	"name": "sample",
+	"version": "1.0.1",
 	"description": "SKYNovel simple sample project",
 	"main": "app.js",
 	"appBundleId": "com.fc2.blog.famibee.sample",
@@ -9,7 +9,7 @@
 	"license": "MIT",
 	"dependencies": {
 		"humane-js": "^3.2.2",
-		"skynovel": "^0.1.3"
+		"skynovel": "^0.1.5"
 	},
 	"devDependencies": {
 		"@types/humane": "^3.0.28",
@@ -19,12 +19,8 @@
 		"electron-installer-dmg": "^2.0.0",
 		"electron-packager": "^13.0.1",
 		"electron-winstaller": "^2.7.0",
-		"espower-typescript": "^9.0.1",
 		"imagemin-webpack-plugin": "^2.4.0",
-		"intelli-espower-loader": "^1.0.1",
-		"power-assert": "^1.6.1",
 		"style-loader": "^0.23.1",
-		"ts-node": "^7.0.1",
 		"typescript": "^3.2.4",
 		"webpack": "^4.28.4",
 		"webpack-cli": "^3.2.1",
