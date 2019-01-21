@@ -1,5 +1,5 @@
 module.exports = {
-	entry: `./core/tmp/web4webpack.js`,
+	entry: `./core/web4webpack.js`,
 	target: 'web',
 	mode: 'development',
 	output: {
