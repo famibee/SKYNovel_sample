@@ -1,2 +1,4 @@
-require("skynovel/core/lib/web");
-//# sourceMappingURL=web4webpack.js.map
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+
+require('skynovel/core/lib/web');
