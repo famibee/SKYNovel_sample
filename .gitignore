@@ -5,6 +5,9 @@
 app/index.js
 
 # Build results
+build/*.yaml
+build/*.yml
+build/mac
 build/skynovel*
 build/cordova
 

@@ -1,5 +1,7 @@
 # Change Log
 
+## v1.0.3
+ - パッケージャを electron-builder に変更・統一
 ## v1.0.2
  - npm-scriptsを駆使してインストール手順簡略化
  - typescript不要なのでパッケージ簡略化
