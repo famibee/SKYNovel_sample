@@ -50,10 +50,14 @@ Hello world ほど小さくはないが、最小限のファイルによるプ�
 - npm web ... ローカルサーバーを起動し、ブラウザ版を起動できます。
 - npm pack:win ... アプリパッケージを作成します。（Macなら pack:mac）
 
+---
+## 拡張機能 / Extension
+ - [SKYNovel - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=famibee.skynovel)
+
 ## License ... [MIT](LICENSE)
 
 ## Famibee is ?
 - [WebSite : 電子演劇部](https://famibee.blog.fc2.com/)
 - [Github](https://github.com/famibee/SKYNovel)
 - [npm](https://www.npmjs.com/package/skynovel)
-- Twitter ([夕街昇雪](https://ugainovel.blog.fc2.com/))
+- Twitter ([famibee](https://twitter.com/famibee))
