@@ -8,7 +8,7 @@
 	"author": "famibee",
 	"license": "MIT",
 	"dependencies": {
-		"skynovel": "^0.2.7"
+		"skynovel": "^0.2.8"
 	},
 	"devDependencies": {
 		"@types/node": "^10.12.21",
