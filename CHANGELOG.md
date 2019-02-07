@@ -1,5 +1,7 @@
 # Change Log
 
+## v1.0.4
+- 自動でブラウザ開く際に web.htm を直接開くように
 ## v1.0.3
  - パッケージャを electron-builder に変更・統一
 ## v1.0.2
