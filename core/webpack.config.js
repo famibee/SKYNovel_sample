@@ -9,6 +9,9 @@ module.exports = [
 			path: process.cwd() +'/app',
 			filename: 'index.js',
 		},
+		optimization: {
+			minimize: true,
+		},
 	},
 	{
 		entry: `./core/web4webpack.js`,
@@ -23,7 +26,8 @@ module.exports = [
 				cacheGroups: {
 					three: {test: /three/, name: 'three', chunks: 'initial'},
 				}
-			}
+			},
+			minimize: true,
 		},
 		plugins: [
 			new ImageminPlugin({
