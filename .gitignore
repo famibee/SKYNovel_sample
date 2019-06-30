@@ -10,6 +10,7 @@ build/*.yml
 build/mac
 build/skynovel*
 build/cordova
+core/plugin/pass.json
 
 # test Results
 core/tmp/
