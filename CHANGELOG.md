@@ -1,5 +1,8 @@
 # Change Log
 
+## v1.0.6
+- chg：about-windowをテンプレでのほうへ移動
+- add：メニューに「DevTools」「quit/close」を追加
 ## v1.0.5
 - ブラウザ版全画面で内容が左に寄る件、CSSで対応
 ## v1.0.4
