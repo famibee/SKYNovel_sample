@@ -8,7 +8,7 @@ app/index.js
 build/*.yaml
 build/*.yml
 build/mac
-build/skynovel*
+build/simple*
 build/cordova
 core/plugin/pass.json
 
