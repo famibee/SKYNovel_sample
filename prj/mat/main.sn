@@ -51,9 +51,16 @@
 
 *init
 	[event key='dom=#snapshot' label=*snapshot global=true call=true need_err=false]
+	[event global=true call=true key=F8 label=*dump cond=const.sn.isDebugger]
 	[dump_script set_fnc=set_ed break_fnc=break_ed need_err=false]
 	[toggle_full_screen key=w]	; for browser
 [return]
 
 *snapshot
 [snapshot fn=pic][return]
+
+*dump
+	[dump_lay]
+;	[dump_val]
+;	[dump_stack]
+[return]
