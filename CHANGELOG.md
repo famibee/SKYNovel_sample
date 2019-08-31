@@ -1,5 +1,7 @@
 # Change Log
 
+## v1.0.8
+- chg：ライブラリ更新
 ## v1.0.7
 - chg：electron-builderの引数変更に対応
 ## v1.0.6
