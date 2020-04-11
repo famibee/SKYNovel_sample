@@ -15,6 +15,7 @@ core/plugin/pass.json
 
 # test Results
 core/tmp/
+core/diff.json
 
 # Node.js Tools
 node_modules/
