@@ -1,5 +1,9 @@
 # Change Log
 
+## v1.2.1
+- breaking change：SKYNovel v0.20.3（webpackでumdモジュールバンドル化）対応
+- breaking change：新テンプレ「doc」：フォルダ構成変更（prj→doc/prj）リロード機能有効化（後方互換性なし）
+- upd：ライブラリ更新
 ## v1.0.18
 - upd：ライブラリ更新
 ## v1.0.17
