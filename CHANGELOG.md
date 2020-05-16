@@ -1,5 +1,7 @@
 # Change Log
 
+## v1.2.2
+- breaking change：SKYNovel v0.20.4（プラグイン用クラス定義追加と変更）対応
 ## v1.2.1
 - breaking change：SKYNovel v0.20.3（webpackでumdモジュールバンドル化）対応
 - breaking change：新テンプレ「doc」：フォルダ構成変更（prj→doc/prj）リロード機能有効化（後方互換性なし）
