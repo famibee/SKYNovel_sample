@@ -15,7 +15,6 @@ crashReporter.start({
 	autoSubmit	: false,
 });
 if (! app.requestSingleInstanceLock()) app.quit();
-app.allowRendererProcessReuse = true;
 app.on('window-all-closed', ()=> app.quit());
 
 let guiWin = null;
@@ -56,15 +55,15 @@ app.on('ready', ()=> {
 
 	guiWin = new BrowserWindow({
 		id			: 'SKYNovel-'+ app.name,
-		width		: 600,
-		height		: 400,
+		width		: 750,
+		height		: 500,
 		min_width	: 300,
 		min_height	: 300,
 		acceptFirstMouse		: true,
 		textAreasAreResizable	: false,
 		resizable		: false,
 		fullscreenable	: true,
-		webPreferences	: {nodeIntegration: true,},
+		webPreferences	: {nodeIntegration: true, enableRemoteModule: true,},
 	});
 	try {
 		guiWin.loadURL('file://'+ __dirname.replace(/\\/g, '/') +'/app/index.htm');
