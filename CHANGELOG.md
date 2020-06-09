@@ -1,5 +1,11 @@
 # Change Log
 
+## v2.0.0
+- upd：SKYNovel 1.0.0 対応・テンプレ変更
+	- npm un skynovel && npm i @famibee/skynovel
+	- core/app4webpack.js ... require('@famibee/skynovel/app');
+	- core/web4webpack.js ... require('@famibee/skynovel/web');
+- upd：ライブラリ更新
 ## v1.2.3
 - upd：ライブラリ更新
 ## v1.2.2

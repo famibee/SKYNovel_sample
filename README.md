@@ -1,6 +1,7 @@
 # SKYNovel simple sample project
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![](https://img.shields.io/badge/platform-windows%20%7C%20macos-lightgrey.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/famibee/SKYNovel_sample)
 
 [![dependencies](https://david-dm.org/famibee/SKYNovel_sample/status.svg)](https://david-dm.org/famibee/SKYNovel_sample)
 [![dependencies](https://david-dm.org/famibee/SKYNovel_sample/dev-status.svg)](https://david-dm.org/famibee/SKYNovel_sample?type=dev)
