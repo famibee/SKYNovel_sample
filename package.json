@@ -8,14 +8,14 @@
 	"author": "famibee",
 	"license": "MIT",
 	"dependencies": {
-		"@famibee/skynovel": "^1.0.0",
+		"@famibee/skynovel": "^1.1.0",
 		"about-window": "^1.13.4",
 		"crypto-js": "^4.0.0"
 	},
 	"devDependencies": {
 		"@types/crypto-js": "^3.1.47",
 		"@types/fs-extra": "^9.0.1",
-		"@types/node": "^14.0.12",
+		"@types/node": "^14.0.13",
 		"css-loader": "^3.5.3",
 		"electron": "^9.0.3",
 		"electron-builder": "^22.7.0",

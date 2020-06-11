@@ -1,5 +1,8 @@
 # Change Log
 
+## v2.0.1
+- bug：【更新 doc/app.js】非パッケージアプリ版のセーブデータ箇所が、別アプリと被っていた件
+- chg：なるべく package.json を参照しそちらから値を取得するように
 ## v2.0.0
 - upd：SKYNovel 1.0.0 対応・テンプレ変更
 	- npm un skynovel && npm i @famibee/skynovel
