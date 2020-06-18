@@ -15,7 +15,7 @@
 
 Hello world ほど小さくはないが、最小限のファイルによるプロジェクトです。
 
-![柊さん](build/readme/manual_th.jpg)
+![柊さん](build/example/manual_th.jpg)
 
 ## usage（使用法）
 
@@ -27,7 +27,7 @@ Hello world ほど小さくはないが、最小限のファイルによるプ�
 ### 普段の開発（ブラウザ版、アプリ版を作りたい人も手軽なので推奨）
 1. 「Activity Bar」SKYNovelを選択します。
 2. 「ブラウザ版を起動」右の【再生ボタン】をクリック。
-![](build/readme/task_web.png)
+![](build/example/task_web.png)
 3. 自動でブラウザを開き、ブラウザ版が起動します。
 
 ### 普段の開発（アプリ版）
