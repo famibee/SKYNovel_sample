@@ -1,5 +1,7 @@
 # Change Log
 
+## v2.0.4
+- chg：【生成】生成パスを build/ → build/package 下へ
 ## v2.0.2
 - bug：スナップショットと全画面について修正
 - info：README.md手直しと使用画像フォルダ名を「example」に変更、必須でなくただの例と示す
