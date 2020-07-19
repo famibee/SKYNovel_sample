@@ -6,7 +6,7 @@
 [![dependencies](https://david-dm.org/famibee/SKYNovel_sample/status.svg)](https://david-dm.org/famibee/SKYNovel_sample)
 [![dependencies](https://david-dm.org/famibee/SKYNovel_sample/dev-status.svg)](https://david-dm.org/famibee/SKYNovel_sample?type=dev)
 
-![logo.svg](build/icon/icon.svg)
+![logo.svg](https://github.com/famibee/SKYNovel/blob/master/test/icon.svg)
 
 [CHANGELOG.md](CHANGELOG.md)
 
