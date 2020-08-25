@@ -9,10 +9,10 @@
 
 
 *ループ処理
-	[fg fn="bg_0" layer=base]
+	[fg fn=bg_0 layer=base]
 背景表示（クリックで背景変更）、[l]
 
-	[fg fn="bg_1" layer=base]
+	[fg fn=bg_1 layer=base]
 背景変更、[l]
 
 
