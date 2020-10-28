@@ -18,6 +18,7 @@ crashReporter.start({
 	companyName	: "電子演劇部",
 	submitURL	: pkg.homepage,
 	autoSubmit	: false,
+	compress	: true,
 });
 if (! app.requestSingleInstanceLock()) app.quit();
 app.on('window-all-closed', ()=> app.quit());
