@@ -1,5 +1,7 @@
 # Change Log
 
+## v2.2.2
+- upd：ライブラリ更新
 ## v2.2.1
 - upd：ライブラリ更新
 - upd：.gitignore更新
