@@ -21,7 +21,7 @@
 
 ;********************************************************
 ; フェードイン
-[macro name="fg_fi"]	;#NO_WARM_UNUSED_MACRO	fg_fi
+[macro name="fg_fi" nowarn_unused=true]
 	[stop_tsy layer=%layer|0]
 	[lay * visible=true alpha=%alpha|0]
 		; left,topなど[lay]属性は主に初期位置。
@@ -33,7 +33,7 @@
 
 ;********************************************************
 ; フェードアウト
-[macro name="fg_fo"]	;#NO_WARM_UNUSED_MACRO	fg_fo
+[macro name="fg_fo" nowarn_unused=true]
 	[stop_tsy layer=%layer|0]
 	[tsy * layer=%layer|0 time=%time|500 alpha=%alpha|0]
 		; x,yなどは移動先指定。つまり終端。
