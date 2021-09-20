@@ -2,9 +2,6 @@
 /.vscode/*.json
 /.vscode/storage/
 
-# アプリ版メインjs
-/app/index.js
-
 # Build results
 /build/icon/
 /build/include/
@@ -13,9 +10,13 @@
 /build/*.yml
 /build/*.nsh
 
-/core/plugin/pass.json
 /core/diff.json
+pass.json
+
+# アプリ版メインjs
+/doc/app/index.js
 /doc/crypto_prj
+/doc/web.js
 
 # Node.js Tools
 /node_modules/
