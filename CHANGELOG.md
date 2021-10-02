@@ -1,5 +1,8 @@
 # Change Log
 
+## v2.6.1
+- fix: windowsで正しいURLを開けないのを修正
+	- package.json/scripts の watch:wds, watch:wdsdbg の「'」を削除
 ## v2.5.12
 - fix: Web版デバッグモードが起動しない件
 - fix: ライブラリ更新
