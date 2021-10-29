@@ -1,5 +1,7 @@
 # Change Log
 
+## v2.7.2
+- fix: ライブラリ更新
 ## v2.6.1
 - fix: windowsで正しいURLを開けないのを修正
 	- package.json/scripts の watch:wds, watch:wdsdbg の「'」を削除
