@@ -1,5 +1,8 @@
 # Change Log
 
+## v2.9.4
+- fix: 冒頭に[update_check]サンプルコード追記。WebサーバーはGithub
+- fix: App ID修正
 ## v2.9.3
 - fix: build/include/readme.txt：保存先ミスを修正（デスクトップ→ダウンロードフォルダ）
 - fix: doc/app.js：SKYNovel.initRenderer()引数変更：SKYNovel v1.25.8 以降必須対応

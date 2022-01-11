@@ -1,14 +1,14 @@
 {
-	"name": "skynovel.sample",
+	"name": "sn_sample",
 	"version": "1.0.0",
 	"description": "SKYNovel simple sample project",
 	"main": "doc/app.js",
-	"appBundleId": "com.fc2.blog.famibee.skynovel.skynovel.sample",
+	"appBundleId": "com.fc2.blog.famibee.skynovel.sn_sample",
 	"appCopyright": "(c)ふぁみべぇ",
 	"author": "ふぁみべぇ",
 	"license": "MIT",
 	"dependencies": {
-		"@famibee/skynovel": "^1.25.9",
+		"@famibee/skynovel": "^1.27.0",
 		"about-window": "^1.15.2",
 		"buffer": "^6.0.3",
 		"crypto-js": "^4.1.1"
@@ -39,9 +39,9 @@
 		"rebuild": "rimraf package-lock.json && rimraf node_modules && npm cache clear --force && npm i && npm run webpack:dev"
 	},
 	"build": {
-		"appId": "com.fc2.blog.famibee.skynovel.skynovel.sample",
+		"appId": "com.fc2.blog.famibee.skynovel.sn_sample",
 		"productName": "シンプルテンプレ",
-		"artifactName": "${productName}-${version}-${arch}.${ext}",
+		"artifactName": "sn_sample-${version}-${arch}.${ext}",
 		"directories": {
 			"output": "build/package/"
 		},
