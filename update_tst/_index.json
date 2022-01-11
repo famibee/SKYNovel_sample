@@ -1,0 +1,34 @@
+{
+	"version": "1.0.0",
+	"name": "sn_sample",
+	"linux_x86_64": {
+		"path": "sn_sample-1.0.0-x86_64.AppImage",
+		"size": 122345007,
+		"sha512": "CyfQ6yOOCpmjyVy9bvjd+eH70AHl1OZ6/2HX45h53fkAXUgnz19R+mS4TvB4W0LyLZ5AQyXIJ8UBlYNHlBdpLA==",
+		"cn": "74ef02bf-95a3-535b-a02d-66e9df84ed52"
+	},
+	"darwin_arm64": {
+		"path": "sn_sample-1.0.0-arm64.dmg",
+		"size": 108713111,
+		"sha512": "GpI36WYInBuUROSt5GlgjVZ526mGySustTaS1ubKg05N+k2NhFL3I0bZNCyOgk+1+1hvtAy2e1rqpQBzwaLnCQ==",
+		"cn": "45d35a82-0a6b-5df5-8d52-dab08f30fd31"
+	},
+	"darwin_x64": {
+		"path": "sn_sample-1.0.0-x64.dmg",
+		"size": 103996371,
+		"sha512": "uOJnYSPXRKKMbOZxWWNSaXSJ8ejO5rDbdd+04nZvaMpbkcm8lPqkhEg6xLScXsNAWXLvmHgqA+vWsgTNfrZq+w==",
+		"cn": "fc71086a-fddd-5edc-a1f1-6bca57553f12"
+	},
+	"win32_ia32": {
+		"path": "sn_sample-1.0.0-ia32.exe",
+		"size": 79040400,
+		"sha512": "wacFEkx4u18pUwQ1V1TsMPQFpVJr6QBTgYKfyIcfugSo+mXQS6xJdHSsXUNkvFrkCQDXR3p36E8kUCBhjh2EFA==",
+		"cn": "c13e711e-42a0-51a2-bf0b-ea2c2ab390b5"
+	},
+	"win32_x64": {
+		"path": "sn_sample-1.0.0-x64.exe",
+		"size": 80971425,
+		"sha512": "InasOo//mPIFSB/2ZoLQOQIeAI3z9r7wHxjSq+gLLzwAjB6FzO3MxEmtVW04z6znqtL4BS6E9iU8O14nXe+Izg==",
+		"cn": "09a17c2e-4953-5290-8922-b3bdb6093c31"
+	}
+}
