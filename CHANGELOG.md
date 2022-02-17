@@ -1,5 +1,9 @@
 # Change Log
 
+## v2.11.0
+- fix: ライブラリ更新
+## v2.9.7
+- fix: ライブラリ更新
 ## v2.9.6
 - fix: ブラウザ版で全画面時にセンタリングするように
 	- doc/web.htm 変更（cssで「canvas」→「canvas#skynovel」）
