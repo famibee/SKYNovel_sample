@@ -69,7 +69,7 @@ A. 事前に連絡して許可を取ってください。
 
 
 ----------------------------------------------------
-Copyright (C) 2020 "電子演劇部" All Rights Reserved.
+Copyright (C) 2022 "電子演劇部" All Rights Reserved.
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -154,4 +154,4 @@ Copyright (C) 2020 "電子演劇部" All Rights Reserved.
 	2020/6/18	1.0.0	公開
 
 
-Copyright (C) 2020 "電子演劇部" All Rights Reserved.
+Copyright (C) 2022 "電子演劇部" All Rights Reserved.
