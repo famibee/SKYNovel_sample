@@ -1,5 +1,7 @@
 # Change Log
 
+## v2.12.4
+- fix: マクロ更新（ext_fg.sn）SKYNovel 1.38.0 以降の[tsy path]を積極使用
 ## v2.12.1
 - feat: マクロ説明を追加・手直し
 ## v2.12.0
