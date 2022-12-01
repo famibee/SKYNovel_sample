@@ -1,5 +1,7 @@
 # Change Log
 
+## v2.12.16
+- fix: core/webpack.config.js に永続的ビルドキャッシュ記述追加
 ## v2.12.15
 - fix: webpack-dev-server のログ出力を 'info'→'warn' に
 - fix: ライブラリ更新
