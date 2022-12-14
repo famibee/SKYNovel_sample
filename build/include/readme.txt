@@ -39,8 +39,6 @@ Pキー：　　スクリーンショット（ダウンロードフォルダへ�
 	https://mojikiban.ipa.go.jp/1300.html
 書体：癸羊明朝フォント【内田 明】
 	http://www.asahi-net.or.jp/~sd5a-ucd/freefonts/QuiMi-mincho/
-書体アプリ：サブセットフォントメーカー https://opentype.jp/subsetfontmk.htm
-書体アプリ：WOFFコンバータ https://opentype.jp/woffconv.htm
 
 ＢＧＭ：【SLOS -FREE SOUND WEB ALBUM-】 http://sentive.net/
 効果音： おさびしゆうき【ザ・マッチメイカァズ】 http://osabisi.sakura.ne.jp/m2/
@@ -77,8 +75,7 @@ Copyright (C) 2022 "電子演劇部" All Rights Reserved.
 【Version】1.0.0
 【ファイル】（Win）*.exe、（Mac）*.dmg
 【著 作 者】ふぁみべぇ
-【動作環境】Windows 7以降 / macOS 10.10（Yosemite）以上
-		https://www.electronjs.org/docs/tutorial/support#supported-platforms
+【動作環境】Windows 10以降 / macOS 11（Big Sur）以上
 【種 　 別】フリーウェア
 【連 絡 先】メール： 
 　　　　　　ＷＥＢ： https://famibee.blog.fc2.com/
@@ -128,9 +125,6 @@ Copyright (C) 2022 "電子演劇部" All Rights Reserved.
 			「ゲーム画面のキャプチャ」「レビュー」「紹介」
 			「ゲーム紹介ページへのリンク」も許可を取らずにご利用いただけます
 
-		→できれば「タイトル画面」または「ゲーム画面」を同時に載せることは
-			控えていただけると助かります（両方載せて頂いても問題ありません）
-
 	・WEBサイトでゲームファイルを掲載される場合
 		→ゲームファイルの掲載は禁止しています
 
@@ -151,7 +145,7 @@ Copyright (C) 2022 "電子演劇部" All Rights Reserved.
 	全て自己責任でご利用ください。ゲームを起動した時点で同意されたものとみなされます。
 
 《バージョンアップ履歴》
-	2020/6/18	1.0.0	公開
+	2023/1/1	1.0.0	公開
 
 
-Copyright (C) 2022 "電子演劇部" All Rights Reserved.
+Copyright (C) 2023 "電子演劇部" All Rights Reserved.
