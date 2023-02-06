@@ -1,5 +1,7 @@
 # Change Log
 
+## v2.12.17
+- fix: ライブラリ更新(SKYNovel v1.40.3)など
 ## v2.12.16
 - fix: core/webpack.config.js に永続的ビルドキャッシュ記述追加
 ## v2.12.15
