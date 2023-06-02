@@ -1,5 +1,7 @@
 # Change Log
 
+## v2.13.3
+- fix: ライブラリ更新(SKYNovel v1.46.0)など
 ## v2.13.2
 - fix: ext_fg.sn 更新
 ## v2.13.1
