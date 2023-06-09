@@ -14,7 +14,7 @@
 		"height": 500
 	},
 	"log": {
-		"max_len": 1024
+		"max_len": 64
 	},
 	"init": {
 		"tagch_msecwait": 10,
