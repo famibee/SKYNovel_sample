@@ -1,5 +1,7 @@
 # Change Log
 
+## v2.13.5
+- fix: ライブラリ更新(SKYNovel v1.48.15)など
 ## v2.13.4
 - fix: cfg.log.max_len: デフォルト値 1024 を 64に
 ## v2.13.3
