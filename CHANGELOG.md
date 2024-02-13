@@ -1,5 +1,8 @@
 # Change Log
 
+## v2.13.6
+- fix: ライブラリ更新(SKYNovel v1.49.1)など
+- fix(brix/crypto-js, buffer): 不要になったライブラリ削除、お世話になりました
 ## v2.13.5
 - fix: ライブラリ更新(SKYNovel v1.48.15)など
 ## v2.13.4
