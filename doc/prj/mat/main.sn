@@ -37,8 +37,8 @@
 
 
 
-	[lay layer=0 page=fore fn=clock]
-時計に変更、
+	[lay layer=0 page=fore fn=clock center=&const.sn.config.window.width/2 middle=&const.sn.config.window.height/2]
+時計に変更、[l]
 
 	[zoom_tsy layer=0 fn=clock time=2000 visible=true ease=Back.Out]
 ズームイン登場、[l]
