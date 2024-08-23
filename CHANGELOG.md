@@ -1,5 +1,7 @@
 # Change Log
 
+## v2.13.12
+- fix(doc/prj/prj.json): debug: {}に【"dumpHtm": false,】追加
 ## v2.13.11
 - fix: ライブラリ更新(SKYNovel v1.54.0)など
 ## v2.13.10
