@@ -1,5 +1,5 @@
 /* ***** BEGIN LICENSE BLOCK *****
-	Copyright (c) 2018-2021 Famibee (famibee.blog38.fc2.com)
+	Copyright (c) 2018-2024 Famibee (famibee.blog38.fc2.com)
 
 	This software is released under the MIT License.
 	http://opensource.org/licenses/mit-license.php
@@ -42,7 +42,7 @@ app.on('ready', ()=> {
 					openAboutWindow({
 						icon_path: path.join(__dirname, 'app/icon.png'),
 						package_json_dir: __dirname,
-						copyright: 'Copyright '+ process.env.npm_package_appCopyright +' 2021',
+						copyright: 'Copyright '+ process.env.npm_package_appCopyright +' 2024',
 						homepage: pkg.homepage,
 						license: '',
 						use_version_info: false,
@@ -61,18 +61,7 @@ app.on('ready', ()=> {
 	const SKYNovel = require('@famibee/skynovel/appMain');
 	guiWin = SKYNovel.initRenderer(
 		path.join(__dirname, 'app/index.htm'),
-		pkg.version,
-		{
-			id			: 'SKYNovel-'+ app.name,
-			width		: 750,
-			height		: 500,
-			min_width	: 300,
-			min_height	: 300,
-			acceptFirstMouse		: true,
-			textAreasAreResizable	: false,
-			resizable		: false,
-			fullscreenable	: true,
-		}
+		pkg.version, {},
 	);
 	guiWin.on('closed', ()=> app.quit());
 });

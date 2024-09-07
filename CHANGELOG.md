@@ -1,5 +1,8 @@
 # Change Log
 
+## v2.13.13
+- fix(app.js): 初期値項目廃止につき記述削除
+- fix: ライブラリ更新
 ## v2.13.12
 - fix(doc/prj/prj.json): debug: {}に【"dumpHtm": false,】追加
 ## v2.13.11
