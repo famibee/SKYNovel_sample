@@ -1,4 +1,9 @@
 {
+	"save_ns": "sn_sample",
+	"window": {
+		"width": 750,
+		"height": 500
+	},
 	"book": {
 		"title": "シンプルテンプレ",
 		"creator": "ふぁみべぇ",
@@ -8,19 +13,14 @@
 		"detail": "SKYNovel simple sample project",
 		"version": "1.0.0"
 	},
-	"save_ns": "sn_sample",
-	"window": {
-		"width": 750,
-		"height": 500
-	},
 	"log": {
 		"max_len": 64
 	},
 	"init": {
+		"bg_color": "#000000",
 		"tagch_msecwait": 10,
 		"auto_msecpagewait": 3500,
-		"escape": "",
-		"bg_color": "#000000"
+		"escape": ""
 	},
 	"debug": {
 		"devtool": false,

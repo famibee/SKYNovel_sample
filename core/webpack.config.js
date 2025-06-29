@@ -2,7 +2,11 @@
 const WebpackObfuscator = require('webpack-obfuscator');
 
 const isPrd = process.env.NODE_ENV === 'production';
-let cfg = {};
+let cfg = {
+	resolve: {
+		fallback: {'url': require.resolve('url/'),}
+	},
+};
 if (isPrd) cfg = {...cfg, module: {rules: [
 	{
 		enforce: 'post',
@@ -42,6 +46,11 @@ module.exports = [{
 	output: {
 		path: process.cwd() +'/doc/app',
 		filename: 'index.js',
+		chunkFilename: p=> {
+			const nm = p.chunk.id
+			.replace(/^.+_dist_app_(.+)_js$/, '$1');
+			return `app.${nm}.js`;
+		},
 	},
 },{
 	...cfg,
@@ -50,6 +59,10 @@ module.exports = [{
 	output: {
 		path: process.cwd() +'/doc',
 		filename: 'web.js',
-		chunkFilename: 'web.[name].js'
+		chunkFilename: p=> {
+			const nm = p.chunk.id
+			.replace(/^.+_dist_(.+)_js$/, '$1');
+			return `web.${nm}.js`;
+		},
 	},
 }];

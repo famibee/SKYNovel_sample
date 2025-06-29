@@ -1,5 +1,12 @@
 # Change Log
 
+## v2.13.17
+- fix: package.json の npm-scripts に【"postinstall": "npm run webpack:dev"】タスクを追加
+- fix: rebuild タスクから前述処理を削除。実行結果は同じ
+- fix: core/app4webpack.js【new SysApp(hPlg);】を DOMContentLoaded イベント発生後に
+- fix: core/web4webpack.js【new SysWeb(hPlg);】を DOMContentLoaded イベント発生後に
+## v2.13.16
+- fix: 生成ファイルのファイル名を短縮
 ## v2.13.15
 - fix: ライブラリ更新
 ## v2.13.14
